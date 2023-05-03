@@ -8,8 +8,5 @@
 </head>
 <body>
 	hello world
-	46
-	asdasd
-	또1 뜨또2는 비버 또3 수정
 </body>
 </html>
